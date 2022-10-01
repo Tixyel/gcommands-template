@@ -18,32 +18,21 @@
 ---
 
 ## Description
-GCommands is a [discord.js](https://discord.js.org) framework that makes an incredible amount of work easier, it's very customizable.
-
-> **Warning**  
-> Currently supports only djs v13.x, v14 support is in progress [here](https://github.com/Garlic-Team/gcommands/pull/539)
+GCommands é uma framework de [discord.js](https://discord.js.org) que faz a criação de bot ficar bem mais fácil, e é super customizável.
 
 ## Features
-- Written in TypeScript
-- Supports slash, legacy and context menus
-- Very customizable
-- Supports custom plugins
-- Built-in command, listener, component handler
+- Feito em TypeScript
+- Suporta slash, mensagem and menus
+- Super customizável e exemplos
+- Aceita plugins
+- Inclui command, listener, component handlers
 
 
-## Installation
+## Instalação
 ```sh
-# Latest (recommended)
-npm install gcommands@latest discord.js
-yarn add gcommands@latest discord.js
-pnpm add gcommands@latest discord.js
-
-# Next Version (unstable, under development)
-npm install gcommands@next discord.js
-yarn add gcommands@next discord.js
-pnpm add gcommands@next discord.js
+npm install 
 ```
 
 ## Guide & Documentation
-To help you learn more about GCommands we have a [guide](https://garlic-team.js.org/guide/) and [documentation](https://garlic-team.js.org/docs/#/docs/gcommands/latest/general/welcome) for you.  
-We will be glad if you join to our [discord server](https://discord.gg/AjKJSBbGm2).
+Para aprender mais sobre o Gcommands siga o [guia](https://garlic-team.js.org/guide/) e a [documentação](https://garlic-team.js.org/docs/#/docs/gcommands/latest/general/welcome).  
+Gcommands também tem um [servidor de discord](https://discord.gg/AjKJSBbGm2).
