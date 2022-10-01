@@ -5,8 +5,6 @@
   <br />
   <p>
     <a href="https://www.npmjs.com/package/gcommands"><img src="https://nodei.co/npm/gcommands.png?downloads=true&stars=true" alt="NPM Banner"></a>
-    <br />
-    <a href="https://discord.gg/AjKJSBbGm2"><img src="https://discord.com/api/guilds/833628077556367411/embed.png?style=banner2" /></a>
   </p>
   <p>
     <a href="https://github.com/Garlic-Team/GCommands"><img src="https://img.shields.io/badge/Open-Source-blue?style=for-the-badge" height="30" /></a>
