@@ -1,5 +1,5 @@
-const { Command, CommandType, Argument, ArgumentType, AutoDeferType } = require('gcommands')
-const { ActionRowBuilder, TextInputStyle, ButtonBuilder, ButtonStyle } = require('discord.js')
+const { Command, CommandType, AutoDeferType } = require('gcommands')
+const { ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js')
 const byID = require('../modules/inhibitors/byID')
 
 new Command({

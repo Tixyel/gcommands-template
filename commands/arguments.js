@@ -1,4 +1,4 @@
-const { Command, CommandType, Argument, ArgumentType, AutoDeferType } = require('gcommands')
+const { Command, CommandType, Argument, ArgumentType } = require('gcommands')
 
 new Command({
   name: 'argumentos',

@@ -7,7 +7,7 @@ class byID extends Inhibitor.Inhibitor {
     this.id = options
   }
 
-  run(ctx, client) {
+  run(ctx, interaction) {
     if (!this.id.includes(ctx.member?.id))
       return ctx.safeReply({
         content: 'Você não tem permissão para utilizar este comando!',
