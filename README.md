@@ -21,14 +21,16 @@ GCommands é uma framework de [discord.js](https://discord.js.org) que faz a cri
 
 ## Incluí
 - Feito em TypeScript
-- Suporta slash, mensagem and menus
+- Suporta slash, mensagem e menus
 - Super customizável e exemplos
 - Aceita plugins
-- Inclui command, listener, component handlers
+- Inclui handlers de comandos, eventos, componentes, entre outros
 
 
 ## Instalação
 ```sh
+gh repo clone Tixyel/gcommands-template
+cd gcommands-template
 npm install 
 ```
 
