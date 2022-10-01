@@ -1,8 +1,11 @@
 const { Listener } = require('gcommands')
 
 new Listener({
+  // O nome é feito para diferenciar um evento de outro, mesmo que o evento seja o mesmo você pode repetir eles
   name: 'ready',
+  // Evento do discord.js
   event: 'ready',
+  // once é para o evento ser executado apenas UMA vez a cada reinicio do bot
   once: true,
 
   async run(client) {
@@ -22,6 +25,7 @@ new Listener({
       ].join('\n')
     )
 
+    // Definindo o custom presence do Bot
     client.user.setPresence({
       status: 'dnd',
       activities: [

@@ -4,6 +4,7 @@ new Command({
   name: 'argumentos',
   description: 'Comando utilizado somente para testes, não utilize sem permissão.',
   type: [CommandType.SLASH],
+  // Argumentos e seus tipos
   arguments: [
     new Argument({
       name: 'attachment',
