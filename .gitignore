@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+discloud.config
+desktop.ini
