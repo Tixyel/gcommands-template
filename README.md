@@ -9,7 +9,6 @@
     <a href="https://discord.gg/AjKJSBbGm2"><img src="https://discord.com/api/guilds/833628077556367411/embed.png?style=banner2" /></a>
   </p>
   <p>
-    <a href="https://ko-fi.com/H2H05FNRL"><img src="https://img.shields.io/badge/Kofi-Donate-yellow?style=for-the-badge" height="30" /></a>
     <a href="https://github.com/Garlic-Team/GCommands"><img src="https://img.shields.io/badge/Open-Source-blue?style=for-the-badge" height="30" /></a>
     <img src="https://img.shields.io/badge/Made%20With-TypeScript-red?style=for-the-badge" height="30" />
   </p>
@@ -17,10 +16,10 @@
 
 ---
 
-## Description
+## Descrição
 GCommands é uma framework de [discord.js](https://discord.js.org) que faz a criação de bot ficar bem mais fácil, e é super customizável.
 
-## Features
+## Incluí
 - Feito em TypeScript
 - Suporta slash, mensagem and menus
 - Super customizável e exemplos
@@ -33,6 +32,6 @@ GCommands é uma framework de [discord.js](https://discord.js.org) que faz a cri
 npm install 
 ```
 
-## Guide & Documentation
+## Guia e documentação
 Para aprender mais sobre o Gcommands siga o [guia](https://garlic-team.js.org/guide/) e a [documentação](https://garlic-team.js.org/docs/#/docs/gcommands/latest/general/welcome).  
 Gcommands também tem um [servidor de discord](https://discord.gg/AjKJSBbGm2).
