@@ -34,10 +34,12 @@ new Command({
     } else if (sub == 'listeners') {
       Listeners.map(async (listener) => {
         await Listeners.get(listener.name).reload()
+        console.log(`${listener.name} foi reiniciado com sucesso!`)
       })
     } else if (sub == 'components') {
       Components.map(async (component) => {
         await Components.get(component.name).reload()
+        console.log(`${component.name} foi reiniciado com sucesso!`)
       })
     }
 
