@@ -17,7 +17,9 @@
 ## Descrição
 GCommands é uma framework de [discord.js](https://discord.js.org) que faz a criação de bot ficar bem mais fácil, e é super customizável.
 
-## Incluí
+## Outros
+- Feito com discord.js v14
+- Feito na v10 do Gcommands
 - Feito em TypeScript
 - Suporta slash, mensagem e menus
 - Super customizável e exemplos
