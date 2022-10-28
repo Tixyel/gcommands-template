@@ -40,14 +40,14 @@ new Command({
           .setLabel('Voltar')
           .setStyle(ButtonStyle.Secondary)
           // Desativando o botão caso a página seja a primeira
-          .setDisabled(page === 0),
+          .setDisabled(page == 0),
         new ButtonBuilder()
           .setEmoji('↩️')
           .setCustomId('home')
           .setLabel('Inicio')
           .setStyle(ButtonStyle.Secondary)
           // Desativando o botão caso a página seja a primeira
-          .setDisabled(page === 0),
+          .setDisabled(page == 0),
         new ButtonBuilder()
           .setEmoji('➡️')
           .setCustomId('next')
