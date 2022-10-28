@@ -1,11 +1,13 @@
 const { Command, CommandType, Argument, ArgumentType, Commands, Listeners, Components } = require('gcommands')
 
+// os locais disponíveis são:
+// 'en-US', 'en-GB', 'bg', 'zh-CN', 'zh-TW', 'hr', 'cs', 'da', 'nl', 'fi', 'fr', 'de', 'el', 'hi', 'hu', 'it', 'ja', 'ko', 'lt', 'no', 'pl', 'pt-BR', 'ro', 'ru', 'es-ES', 'sv-SE', 'th', 'tr', 'uk', 'vi'
+// https://discord.js.org/#/docs/main/stable/typedef/Locale
+
 new Command({
   // nome padrão do comando
   name: 'nome',
-  // os locais disponíveis são:
-  // 'en-US', 'en-GB', 'bg', 'zh-CN', 'zh-TW', 'hr', 'cs', 'da', 'nl', 'fi', 'fr', 'de', 'el', 'hi', 'hu', 'it', 'ja', 'ko', 'lt', 'no', 'pl', 'pt-BR', 'ro', 'ru', 'es-ES', 'sv-SE', 'th', 'tr', 'uk', 'vi'
-  // Dependendo da linguagem do client do usuário que executar o comando ele irá adaptar de acordo com o que está definido abaixo, caso não esteja definido ele será o padrão
+  // Dependendo da idioma do client do usuário que executar o comando ele irá adaptar de acordo com o que está definido abaixo, caso não esteja definido ele será o padrão
   nameLocalizations: {
     'pt-BR': 'nome',
     'en-GB': 'name',
