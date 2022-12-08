@@ -35,5 +35,5 @@ npm install
 ```
 
 ## Guia e documentação
-Para aprender mais sobre o Gcommands siga o [guia](https://garlic-team.js.org/guide/) e a [documentação](https://garlic-team.js.org/docs/#/docs/gcommands/latest/general/welcome).  
+Para aprender mais sobre o Gcommands siga o [guia](https://garlic-team.js.org/guide/) e a [documentação](https://garlic-team.js.org/docs/#/docs/gcommands/stable/general/welcome).  
 Gcommands também tem um [servidor de discord](https://discord.gg/AjKJSBbGm2).
