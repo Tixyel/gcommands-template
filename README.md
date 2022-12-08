@@ -37,6 +37,7 @@ npm install
 ## Atenção!!
 
 - Lembre-se de alterar o ` template.env ` para ` .env ` e editar o arquivo com as informações do seu BOT!
+- Para iniciar o bot utilize ` node . ` ou ` node index.js ` no seu terminal!
 
 ## Guia e documentação
 Para aprender mais sobre o Gcommands siga o [guia](https://garlic-team.js.org/guide/) e a [documentação](https://garlic-team.js.org/docs/#/docs/gcommands/stable/general/welcome).  
