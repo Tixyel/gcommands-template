@@ -18,13 +18,13 @@
 GCommands é uma framework de [discord.js](https://discord.js.org) que faz a criação de bot ficar bem mais fácil, e é super customizável.
 
 ## Outros
-- Feito com discord.js v14
-- Feito na v10 do Gcommands
-- Feito em TypeScript
-- Suporta slash, mensagem e menus
-- Super customizável e exemplos
-- Aceita plugins
-- Inclui handlers de comandos, eventos, componentes, entre outros
+- Feito com discord.js v14;
+- Versão 10 do Gcommands;
+- Framework feita em TypeScript;
+- Suporta comandos em slash, mensagem e context;
+- Super customizável e exemplos;
+- Aceita plugins;
+- Inclui handlers de comandos, eventos, componentes, entre outros!
 
 
 ## Instalação
@@ -33,6 +33,10 @@ gh repo clone Tixyel/gcommands-template
 cd gcommands-template
 npm install 
 ```
+
+## Atenção!!
+
+- Lembre-se de alterar o ` template.env ` para ` .env ` e editar o arquivo com as informações do seu BOT!
 
 ## Guia e documentação
 Para aprender mais sobre o Gcommands siga o [guia](https://garlic-team.js.org/guide/) e a [documentação](https://garlic-team.js.org/docs/#/docs/gcommands/stable/general/welcome).  
